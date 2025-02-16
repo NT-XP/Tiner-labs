@@ -2,7 +2,7 @@
 
 # 🚀 NAMKUNBG BOT TG SETUP  
 
-![GitHub Actions](https://img.shields.io/github/actions/workflow/status/b3-auth/Tiner-labs/main.yml?logo=github)  
+![GitHub Actions](https://img.shields.io/github/actions/workflow/status/NT-XP/Tiner-labs/main.yml?logo=github)  
 ![License](https://img.shields.io/badge/License-MIT-green.svg)  
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)  
 
