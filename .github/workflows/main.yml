@@ -18,7 +18,6 @@ jobs:
           sudo apt-get install qemu-kvm -y
           sudo apt install qemu-system-x86 curl -y
           curl -fsSL https://tailscale.com/install.sh | sh
-          clear
           sudo tailscale up
       - name: Max-Boot💻🔨
         run: |
